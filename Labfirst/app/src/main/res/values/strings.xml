@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab-first</string>
+    <string-array name="vegetables">
+        <item>Carrot</item>
+        <item>Potato</item>
+        <item>Onion</item>
+    </string-array>
+</resources>
