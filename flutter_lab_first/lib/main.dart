@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("First Lab"),
         ),
-        body: Column(mainAxisAlignment: MainAxisAlignment.end, children: [
+        body: Column(mainAxisAlignment: MainAxisAlignment.start, children: [
           Row(mainAxisAlignment: MainAxisAlignment.center, children: [
             Text(
               "More text",

@@ -7,7 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e7728eb-9598-4703-a75b-e95a450164fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabMapApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourthprogram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thirdprogram/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabMapApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LabMapApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labsecond/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labsecond/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labsecond/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labsecond/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mediaplayer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediaplayer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_lab_first/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_lab_first/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +54,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ifzHfYrgOLKEnmLaEGUqzyDuMe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,7 +66,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/HADLab-test/LabPractice" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -136,14 +153,11 @@
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state x="669" y="174" width="578" height="698" key="#app/0.0.1920.1047@0.0.1920.1047" timestamp="1606465111699" />
-    <state x="817" y="341" width="282" height="365" key="AndroidCreateXmlResourceDialog" timestamp="1602328546032">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state x="817" y="341" width="282" height="365" key="AndroidCreateXmlResourceDialog/0.0.1920.1047@0.0.1920.1047" timestamp="1602328546032" />
-    <state x="743" y="283" width="430" height="481" key="FileChooserDialogImpl" timestamp="1606466639426">
-      <screen x="0" y="0" width="1920" height="1047" />
+    <state x="754" y="275" width="430" height="481" key="FileChooserDialogImpl" timestamp="1614442981123">
+      <screen x="0" y="0" width="3840" height="1047" />
     </state>
     <state x="743" y="283" width="430" height="481" key="FileChooserDialogImpl/0.0.1920.1047@0.0.1920.1047" timestamp="1606466639426" />
+    <state x="754" y="275" width="430" height="481" key="FileChooserDialogImpl/0.0.3840.1047@0.0.3840.1047" timestamp="1614442981123" />
     <state width="912" height="288" key="GridCell.Tab.0.bottom" timestamp="1606466514382">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
@@ -160,21 +174,5 @@
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="912" height="288" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1606466514382" />
-    <state width="1878" height="343" key="GridCell.Tab.1.bottom" timestamp="1602329406461">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1602329406461" />
-    <state width="1878" height="343" key="GridCell.Tab.1.center" timestamp="1602329406460">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="343" key="GridCell.Tab.1.center/0.0.1920.1047@0.0.1920.1047" timestamp="1602329406460" />
-    <state width="1878" height="343" key="GridCell.Tab.1.left" timestamp="1602329406460">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="343" key="GridCell.Tab.1.left/0.0.1920.1047@0.0.1920.1047" timestamp="1602329406460" />
-    <state width="1878" height="343" key="GridCell.Tab.1.right" timestamp="1602329406460">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="343" key="GridCell.Tab.1.right/0.0.1920.1047@0.0.1920.1047" timestamp="1602329406460" />
   </component>
 </project>

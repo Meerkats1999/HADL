@@ -6,7 +6,27 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf3eb983-ddeb-4497-8c9a-45480db39a4c" name="Default Changelist" comment="" />
+    <list default="true" id="bf3eb983-ddeb-4497-8c9a-45480db39a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LabMapApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourthprogram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thirdprogram/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabMapApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LabMapApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labfirst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labfirst/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mediaplayer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediaplayer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_lab_first/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_lab_first/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz/.dart_tool/flutter_build/1fa99f15e36b30c3f7d735faec3a723c/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz/.dart_tool/flutter_build/1fa99f15e36b30c3f7d735faec3a723c/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz/.idea/quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz/.idea/quiz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +46,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ir8S5ZshvNM2NLJZqz3Ve6Rd5P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,8 +56,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-28T08:40:39.354Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/HADLab-test/LabPractice" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -120,45 +142,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1602918846984">
+    <state x="743" y="283" width="430" height="481" key="FileChooserDialogImpl" timestamp="1614501452463">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846984" />
-    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1602918846984">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846984" />
-    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1602918846984">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846984" />
-    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1602918846984">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846984" />
-    <state width="1878" height="344" key="GridCell.Tab.1.bottom" timestamp="1602918846985">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846985" />
-    <state width="1878" height="344" key="GridCell.Tab.1.center" timestamp="1602918846985">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.1.center/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846985" />
-    <state width="1878" height="344" key="GridCell.Tab.1.left" timestamp="1602918846985">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.1.left/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846985" />
-    <state width="1878" height="344" key="GridCell.Tab.1.right" timestamp="1602918846985">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.1.right/0.0.1920.1047@0.0.1920.1047" timestamp="1602918846985" />
-    <state x="100" y="100" width="760" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602755116513">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state x="100" y="100" width="760" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1047@0.0.1920.1047" timestamp="1602755116513" />
-    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1602918760298">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1047@0.0.1920.1047" timestamp="1602918760298" />
+    <state x="743" y="283" width="430" height="481" key="FileChooserDialogImpl/0.0.1920.1047/1920.0.1920.1080@0.0.1920.1047" timestamp="1614501452463" />
   </component>
 </project>
